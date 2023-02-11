@@ -1,9 +1,12 @@
 ![logo](0_7Q3yvSIv_t0ioJ-Z.gif)
+<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
 
   <h1 align="center">Hi 👋, I'm Prabhash Wijerathna</h1>
-  
+  <video width="320" height="240" controls>
+  <source src="Video Link">
+</video>
 <h3 align="center">📡Student Of A Software Engineer From Sri Lanka.</h3>
- <img>
+ 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhawijera&label=Profile%20views&color=0e75b6&style=flat" alt="prabhawijera" /> </p>
 
