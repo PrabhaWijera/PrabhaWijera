@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/beautiful-neon-cactus-bedroom_23-2149355047.jpg?w=1060&t=st=1676089724~exp=1676090324~hmac=a90e463d09022ade59116c1a80114a72e7222159dbfc5c1f94ef736058dee0b0.png">
+<img src=" .png">
   <h1 align="center">Hi 👋, I'm Prabhash Wijerathna</h1>
   <video width="320" height="240" controls>
   <source src="Video Link">
