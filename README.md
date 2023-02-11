@@ -1,6 +1,4 @@
-![logo](0_7Q3yvSIv_t0ioJ-Z.gif)
-<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
-
+<img src="https://img.freepik.com/free-photo/beautiful-neon-cactus-bedroom_23-2149355047.jpg?w=1060&t=st=1676089724~exp=1676090324~hmac=a90e463d09022ade59116c1a80114a72e7222159dbfc5c1f94ef736058dee0b0.png">
   <h1 align="center">Hi 👋, I'm Prabhash Wijerathna</h1>
   <video width="320" height="240" controls>
   <source src="Video Link">
@@ -33,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhawijera&show_icons=true&locale=en" alt="prabhawijera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhawijera&" alt="prabhawijera" /></p>
+<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
+  
