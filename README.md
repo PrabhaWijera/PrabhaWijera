@@ -1,4 +1,4 @@
-<img src=" .png">
+<img src=" https://camo.githubusercontent.com/8349fdc0648904641607489d3a9fa189902285d4514278ea17f58d3da386c0bf/68747470733a2f2f632e74656e6f722e636f6d2f4966493351684a4473774541414141432f77656c636f6d652d62616e6e65722e676966.png">
   <h1 align="center">Hi 👋, I'm Prabhash Wijerathna</h1>
   <video width="320" height="240" controls>
   <source src="Video Link">
