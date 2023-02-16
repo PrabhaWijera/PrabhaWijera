@@ -1,8 +1,10 @@
-<img src=" https://camo.githubusercontent.com/8349fdc0648904641607489d3a9fa189902285d4514278ea17f58d3da386c0bf/68747470733a2f2f632e74656e6f722e636f6d2f4966493351684a4473774541414141432f77656c636f6d652d62616e6e65722e676966.png">
+ <img width="100%" height="500" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" />
+<div id="header" align="center">  
   <h1 align="center">Hi 👋, I'm Prabhash Wijerathna</h1>
   <video width="320" height="240" controls>
   <source src="Video Link">
 </video>
+    <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 <h3 align="center">📡Student Of A Software Engineer From Sri Lanka.</h3>
  
  
@@ -31,5 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhawijera&show_icons=true&locale=en" alt="prabhawijera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhawijera&" alt="prabhawijera" /></p>
-<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
