@@ -1,4 +1,4 @@
- <img width="100%" height="500" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" />
+ <img width="100%" height="500" src="https://as1.ftcdn.net/v2/jpg/03/60/80/36/1000_F_360803643_VZWcNfjNrciAfBcR5eYhd9rUzWIvJL5f.jpg" />
 <div id="header" align="center">  
   <h1 align="center">Hi 👋, I'm Prabhash Wijerathna</h1>
   <video width="320" height="240" controls>
