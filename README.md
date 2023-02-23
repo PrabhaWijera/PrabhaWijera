@@ -1,9 +1,17 @@
- <img width="100%" height="500" src="https://as1.ftcdn.net/v2/jpg/03/60/80/36/1000_F_360803643_VZWcNfjNrciAfBcR5eYhd9rUzWIvJL5f.jpg" />
+<br><br> 
+ <img  src="https://www.fleetscience.org/sites/default/files/images/ai%20gif.gif"  width="400" height="300"> &nbsp;&nbsp;| &nbsp;&nbsp; <img src = "https://static.wixstatic.com/media/4b1cef_54d9baf7b7da4f10aa2ae732d9b99d7a~mv2.gif" width="400" height="300"/>
+ 
+ 
 <div id="header" align="center">  
   <h1 align="center">Hi 👋, I'm Prabhash Wijerathna</h1>
   <video width="320" height="240" controls>
   <source src="Video Link">
+   
 </video>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F1C40F&width=850&lines=Helping+people+to+make+the+world+a+better+place+through+quality+software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
     <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 <h3 align="center">📡Student Of A Software Engineer From Sri Lanka.</h3>
  
