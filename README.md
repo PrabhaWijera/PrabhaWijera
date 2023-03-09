@@ -1,7 +1,4 @@
-<br><br> 
- <img  src="https://www.fleetscience.org/sites/default/files/images/ai%20gif.gif"  width="400" height="300"> &nbsp;&nbsp;| &nbsp;&nbsp; <img src = "https://static.wixstatic.com/media/4b1cef_54d9baf7b7da4f10aa2ae732d9b99d7a~mv2.gif" width="400" height="300"/>
- 
- 
+
 <div id="header" align="center">  
   <h1 align="center">Hi 👋, I'm Prabhash Wijerathna</h1>
   <video width="320" height="240" controls>
@@ -10,7 +7,7 @@
 </video>
  
  
-    <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+    
 <h3 align="center">📡Student Of A Software Engineer From Sri Lanka.</h3>
  
  
