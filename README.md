@@ -6,10 +6,9 @@
   <source src="Video Link">
    
 </video>
- 
- 
-    <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<h3 align="center">📡Student Of A Software Engineer From Sri Lanka.</h3>
+ <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&color=7C5EF2&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Prabhash+Wijerathna;Software+Developer+and+UX/UI+Designer">
+</p>
  
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhawijera&label=Profile%20views&color=0e75b6&style=flat" alt="prabhawijera" /> </p>
