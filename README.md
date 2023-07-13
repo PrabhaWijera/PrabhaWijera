@@ -4,16 +4,7 @@
  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&color=7C5EF2&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Prabhash+Wijerathna;Software+Developer+and+UX/UI+Designer">
 </p>
- MY Personal Portfolio Website
-
-https://prabhawijera.github.io/Portfolio_Prabhash/
-
  
-
-https://reliable-cobbler-37a327.netlify.app
-
-
-https://prabhashwije.000webhostapp.com/
 <img align="right" width=200px height=200px alt="side_sticker" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
   <video width="320" height="240" controls>
   <source src="Video Link">
