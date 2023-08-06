@@ -1,4 +1,4 @@
- # Hi there, I'm [Your Name](https://yourwebsite.com) 👋
+ # Hi there, I'm [Prabhash wijerathna ](https://yourwebsite.com) 👋
 
 ![Profile Picture](https://yourwebsite.com/profile_picture.png)
 
