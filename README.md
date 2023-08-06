@@ -61,20 +61,6 @@ I have a strong background in front-end and back-end web development, and I'm ex
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername/github-readme-stats)
 
-### 📚 My Latest Blog Posts
-
-...
-
-### 📫 How to reach me
-
-...
-
-### ❤️ Support Me
-
-...
-
-### 🎯 Fun Fact
-
-...
+ 
 
 Thanks for visiting my profile! 😊 Let's connect and collaborate!
