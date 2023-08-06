@@ -1,9 +1,8 @@
 # Hi there, I'm Prabhash Wijerathna 👋
 
-<p align="center">
+ 
   <b>Welcome to my GitHub profile! 🚀</b>
-</p>
-
+ 
 <p align="center">
   <b>Who am I?</b><br>
   I am a passionate software engineer and creative designer with a strong focus on web development and crafting visually stunning user experiences. With a love for open-source projects, I constantly explore new technologies, pushing the boundaries of design and development to create innovative solutions.
