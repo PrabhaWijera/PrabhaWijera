@@ -1,6 +1,8 @@
+
+<img src="https://komarev.com/ghpvc/?username=prabhawijera&label=Profile%20views&color=0e75b6&style=flat" alt="prabhawijera" />
+
  
 https://i.pinimg.com/originals/20/e1/4c/20e14c32aaa27aeca655b1df3094b5f4.gif
->
 <div id="header" align="center">  
  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&color=7C5EF2&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Prabhash+Wijerathna;Software+Developer+and+UX/UI+Designer">
