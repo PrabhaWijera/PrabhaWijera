@@ -5,29 +5,33 @@
  
 <p align="center">
   <b>Who am I?</b><br>
-  I am a passionate software engineer and creative designer with a strong focus on web development and crafting visually stunning user experiences. With a love for open-source projects, I constantly explore new technologies, pushing the boundaries of design and development to create innovative solutions.
 </p>
+  I am a passionate software engineer and creative designer with a strong focus on web development and crafting visually stunning user experiences. With a love for open-source projects, I constantly explore new technologies, pushing the boundaries of design and development to create innovative solutions.
 
 <p align="center">
   <b>What I Do:</b><br>
+</p>
   Front-end Development: I specialize in creating intuitive and responsive user interfaces that delight users and enhance their browsing experience. My keen eye for detail ensures pixel-perfect designs that stand out.<br>
   Back-end Development: I am proficient in building robust and efficient back-end systems that power seamless interactions between users and applications.<br>
   UI/UX Design: My background in UI/UX design allows me to approach projects with a user-centric mindset, resulting in engaging and user-friendly interfaces.
-</p>
-
+  
 <p align="center">
   <b>My Approach:</b><br>
-  I firmly believe that technology and creativity go hand in hand. By uniting these two aspects, I strive to develop web applications that not only function flawlessly but also leave a lasting impression on users with their aesthetic appeal.
 </p>
+ I firmly believe that technology and creativity go hand in hand. By uniting these two aspects, I strive to develop web applications that not only function flawlessly but also leave a lasting impression on users with their aesthetic appeal.
 
 ## 🌐 **Skills**
 
 <p align="center">
   <b>Front-end Development:</b><br>
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+ 
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+  
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+  
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 </p>
 
