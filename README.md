@@ -1,8 +1,6 @@
 # Hi there, I'm Prabhash Wijerathna 👋
 
- <img src="
-   ![363826878_987902612629360_2429296761717275636_n](https://github.com/PrabhaWijera/PrabhaWijera/assets/106425954/32825cc4-8699-4f2e-9a37-6813836c2fd6)
-   ">
+ 
 
 ### Welcome to my GitHub profile! 🚀
 
