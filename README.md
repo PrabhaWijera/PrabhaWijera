@@ -13,6 +13,7 @@
 </p>
   Front-end Development: I specialize in creating intuitive and responsive user interfaces that delight users and enhance their browsing experience. My keen eye for detail ensures pixel-perfect designs that stand out.<br>
   Back-end Development: I am proficient in building robust and efficient back-end systems that power seamless interactions between users and applications.<br>
+  
   UI/UX Design: My background in UI/UX design allows me to approach projects with a user-centric mindset, resulting in engaging and user-friendly interfaces.
   
 <p align="center">
@@ -24,6 +25,7 @@
 
 <p align="center">
   <b>Front-end Development:</b><br>
+ 
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
  
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
@@ -37,38 +39,49 @@
 
 <p align="center">
   <b>Back-end Development:</b><br>
+ 
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+  
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 </p>
 
-<p align="center">
+ 
   <b>UI/UX Design:</b><br>
+
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+  
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=black&style=flat)
+  
   ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=black&style=flat)
-</p>
+ 
 
-<p align="center">
+ 
   <b>Version Control:</b><br>
+ 
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+  
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-</p>
-
-<p align="center">
+ 
+ 
   <b>Project Management:</b><br>
+ 
   ![Agile](https://img.shields.io/badge/-Agile-0093D7?logo=agile&logoColor=white&style=flat)
+  
   ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum&logoColor=white&style=flat)
-</p>
+ 
 
 ## 🛠️ **Tools & Software**
 
-<p align="center">
+ 
   <b>Adobe Creative Suite:</b><br>
+  
   ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat)
+  
   ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white&style=flat)
+  
   ![InDesign](https://img.shields.io/badge/-InDesign-FF3366?logo=adobe%20indesign&logoColor=white&style=flat)
-</p>
 
 <p align="center">
   <b>Figma:</b><br>
