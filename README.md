@@ -105,5 +105,4 @@
 
 <p align="center">
   <b>Let's Collaborate:</b><br>
-  If you're seeking a driven and innovative software engineer who can seamlessly bridge the gap between back-end functionality and front-end design, I'm the one you're looking for! Let's connect and bring captivating web experiences
-
+  If you're seeking a driven and innovative software engineer who can seamlessly bridge the gap between back-end functionality and front-end
