@@ -1,6 +1,6 @@
  # Hi there, I'm [Prabhash wijerathna ](https://yourwebsite.com) 👋
 
-![Profile Picture](https://yourwebsite.com/profile_picture.png)
+ 
 
 ### Welcome to my GitHub profile! 🚀
 
