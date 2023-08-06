@@ -42,7 +42,7 @@ I have a strong background in front-end and back-end web development, and I'm ex
 - Adobe Creative Suite: 
   ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white&style=flat)
-  ![InDesign](https://img.shields.io/badge/-InDesign-FF3366?logo=adobe%20indesign&logoColor=white&style=flat)
+  
 
 - Figma: 
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
@@ -53,8 +53,7 @@ I have a strong background in front-end and back-end web development, and I'm ex
 - Postman: 
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
-- Trello: 
-  ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat)
+ 
 
 - Slack: 
   ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat)
