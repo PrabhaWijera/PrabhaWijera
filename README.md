@@ -1,6 +1,8 @@
-# Hi there, I'm Prabhash Wijerathna ([https://yourwebsite.com](https://github.com/PrabhaWijera)) 👋
+# Hi there, I'm Prabhash Wijerathna 👋
 
-![Profile Picture]([https://yourwebsite.com/profile_picture.png](https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/363347596_987902605962694_5373953953515430162_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEpbuyRKdQLhS1S16nNUByzD9h_FqDbnC4P2H8WoNucLkkiS0RxhdXeSE-3iCztQdxgQ1d2yS6saAdR_0cOe4cN&_nc_ohc=B2b97Nu5b9oAX9ZINFY&_nc_ht=scontent.fcmb1-2.fna&oh=00_AfC0kXQKDBycRxW4amaUg7EcmkLG3qEm8Uol0JcBlTO6nA&oe=64D519D0))
+ <img src="
+   ![363826878_987902612629360_2429296761717275636_n](https://github.com/PrabhaWijera/PrabhaWijera/assets/106425954/32825cc4-8699-4f2e-9a37-6813836c2fd6)
+   ">
 
 ### Welcome to my GitHub profile! 🚀
 
