@@ -1,6 +1,4 @@
 
-
-<img src="   https://i.pinimg.com/originals/20/e1/4c/20e14c32aaa27aeca655b1df3094b5f4.gif">
  
 
 <div id="header" align="center">  
