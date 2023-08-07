@@ -55,12 +55,6 @@ I have a strong background in front-end and back-end web development, and I'm ex
 - Slack: 
   ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat)
 
-### 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername/github-readme-stats)
-
  
 
 Thanks for visiting my profile! 😊 Let's connect and collaborate!
