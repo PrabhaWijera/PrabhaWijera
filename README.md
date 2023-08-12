@@ -8,7 +8,7 @@ I'm a passionate software engineer and creative designer, with a keen eye for de
 I have a strong background in front-end and back-end web development, and I'm experienced in creating responsive and accessible web applications. My passion for UI/UX design allows me to create visually appealing interfaces that enhance the user experience. In my free time, I love contributing to open-source projects and writing technical articles on web development and design topics.
 
 ### 🌐 Skills
-
+![LeetCode Logo](https://link-to-your-logo-image.png)
 - Front-end Development: 
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
