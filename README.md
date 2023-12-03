@@ -44,7 +44,7 @@
 - Backend
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,SpringBoot,Tomcat,Lombok,fastapi,express,nestjs,hibernate" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,fastapi,express,nestjs,hibernate" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,Microsoft,linux,Canva" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,Canva" />
   </a>
 </p>
 
