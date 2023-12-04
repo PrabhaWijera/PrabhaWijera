@@ -6,7 +6,7 @@
 <p align="center">I have a strong background in front-end and back-end web development, and I'm experienced in creating responsive and accessible web applications. My passion for UI/UX design allows me to create visually appealing interfaces that enhance the user experience. In my free time, I love contributing to open-source projects and writing technical articles on web development and design topics.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt=" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt=" " /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
