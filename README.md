@@ -1,7 +1,7 @@
 ![marwin1991_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi there, I'm Prabhash wijerathna 🪸</h1>
+
 <h3 align="center">A passionate Programmer from Sri lanka</h3>
 <p align="center">I have a strong background in front-end and back-end web development, and I'm experienced in creating responsive and accessible web applications. My passion for UI/UX design allows me to create visually appealing interfaces that enhance the user experience. In my free time, I love contributing to open-source projects and writing technical articles on web development and design topics.</p>
 <p align="center"> 
