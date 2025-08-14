@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=5000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&lines=Welcome+to+Prabhash's+Digital+Cosmos+%F0%9F%8C%8C;Underrated+UI%2FUX+Visionary+and+Code+Alchemist;Prepare+to+Say+%22Damn!%22" alt="Typing SVG" />
-</p>
+ 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prabhash&style=flat-square&color=00FFFF&label=Profile+Encounters" alt="Profile views" />
@@ -92,12 +90,6 @@ In a digital universe cluttered with noise, **Prabhash** emerges as an underrate
 
 ---
 
-### 🌟 Why I’m the Underrated GOAT
-- **20+ Years** blending UI/UX with hardcore development.
-- **10 Hackathon Wins**: Including Best UX at CES and Web3 Summit.
-- **Global Impact**: Open-source libraries used by **200k+ developers**.
-- **Conversion King**: Redesigns that spiked user retention by 500%.
-- **Trend Architect**: Invented "Neon Flux" aesthetic adopted by top startups.
 
 <p align="center">
   <img src="https://github.com/Prabhash/Prabhash/blob/output/snake.svg" alt="Contribution Snake" />
