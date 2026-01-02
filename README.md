@@ -1,110 +1,198 @@
- 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prabhash+Wijerathna+👋;Full-Stack+Software+Engineer;Building+Scalable+Web+Applications" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prabhash&style=flat-square&color=00FFFF&label=Profile+Encounters" alt="Profile views" />
-  <a href="https://x.com/prabhash_dev"><img src="https://img.shields.io/badge/X-Prabhash-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/prabhash"><img src="https://img.shields.io/badge/LinkedIn-Prabhash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://prabhash.dev"><img src="https://img.shields.io/badge/Portfolio-prabhash.dev-FF00FF?style=for-the-badge&logo=web&logoColor=white" /></a>
-  <a href="https://github.com/sponsors/Prabhash"><img src="https://img.shields.io/badge/Sponsor_My_Vision-FF69B4?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cyberpunk Coding" width="450" />
-</p>
-
----
-
-### 🌌 The Legend of Prabhash
-In a digital universe cluttered with noise, **Prabhash** emerges as an underrated titan—a **UI/UX alchemist** and **full-stack sorcerer**. My designs don’t just look good; they *feel* alive, bending time and space to captivate users. My code? It’s poetry that powers empires. From crafting immersive metaverse interfaces to architecting Web3 ecosystems, I’m the developer the world didn’t see coming. Buckle up—this profile will leave you saying, *"Damn!"*
-
-- 🔮 **Mission**: Redefining digital experiences with intuitive, futuristic UIs.
-- 🚀 **Current Quest**: Building AI-driven, accessible Web3 platforms.
-- 🧠 **Mastering**: WebGL, Three.js, advanced Figma prototyping, and Rust concurrency.
-- 🌍 **Impact**: Open-source contributions with **150k+ downloads** and counting.
-- ⚡ **Signature Move**: Turning 100 lines of code into a million-dollar user experience.
-- 📬 **Ping Me**: [prabhash@dev.com](mailto:prabhash@dev.com) | [prabhash.dev](https://prabhash.dev)
+<div align="center">
+  <a href="https://github.com/PrabhaWijera">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/prabhash-wijerathna">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/prabhas_w/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 ---
 
-### 🎨 Design Philosophy: The Underrated Edge
-> "Great design isn’t seen—it’s *felt*. I craft interfaces that whisper to the soul and code that sings in silence."
+## 👨‍💻 About Me
 
-#### My Secret UI/UX Weapons:
-- **Micro-Interaction Magic**: Subtle animations that boost engagement by 400%.
-- **Dynamic Theming**: AI-driven color schemes that adapt to user preferences in real-time.
-- **Holographic UX**: 3D-layered interfaces using WebGL for immersive depth.
-- **Ethical Accessibility**: Designs that empower *all* users, with 100% WCAG compliance.
-- **Gamified Flows**: Turning mundane tasks into addictive, story-driven experiences.
+I'm **Prabhash Wijerathna**, a **Full-Stack Software Engineer** from **Sri Lanka** with over **1.5 years** of hands-on industry experience building scalable, high-performance web applications. My work focuses on developing efficient backend systems, crafting seamless front-end interfaces, and delivering production-ready solutions that drive real business impact.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,sketch,photoshop,illustrator,blender,aftereffects,premiere" alt="Design Tools" />
-</p>
+🎓 Currently pursuing a **B.Sc. in Software Engineering** at **Cardiff Metropolitan University**  
+📍 Based in **Sri Lanka**  
+💼 Open to **collaborations** and **opportunities**
+
+### Beyond Coding
+When I'm not building, you'll find me capturing moments through **street photography** or exploring the latest trends in tech. I also enjoy mentoring peers and contributing to creative projects that encourage learning and growth.
 
 ---
 
-### 🛠️ Tech Stack: The Arsenal
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Expert-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-Master-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Virtuoso-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-Pro-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-Guru-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Legend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-Wizard-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-Expert-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Master-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Pro-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
-### 📊 GitHub Constellation
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhash&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&icon_color=00FFFF&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhash&theme=transparent&hide_border=true&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%" />
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhash&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Prabhash&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="48%" />
-</p>
+### 🔥 What's New
 
-<p align="center">
-  <img src="https://github.com/Prabhash/Prabhash/blob/output/contribution-heatmap.svg" alt="Contribution Heatmap" width="100%" />
-</p>
+#### [AI-Powered Incident Management System](https://incident-frontend.vercel.app)
+An intelligent platform that monitors multiple services, automatically detects issues, and uses NVIDIA NIM LLMs (Llama 3.1, Mistral 7B) to analyze incidents and identify root causes in under 10 seconds.
 
----
+**Tech Stack:** Next.js 16, React 19, Node.js, Express.js, MongoDB, NVIDIA NIM, AI/ML
 
-### 🪐 Signature Creations
-| Project | Description | Tech | Stars |
-|---------|-------------|------|-------|
-| **[HoloVerse](https://github.com/Prabhash/HoloVerse)** | Immersive Web3 metaverse with holographic UI. | React, Three.js, Solidity | ⭐ 3.2k |
-| **[NeuraKit](https://github.com/Prabhash/NeuraKit)** | AI-driven UI component library with real-time theming. | Next.js, Tailwind, TensorFlow | ⭐ 2.8k |
-| **[QuantumFlow](https://github.com/Prabhash/QuantumFlow)** | Dashboard with neumorphic design and WebGL animations. | Vue.js, D3.js, AWS | ⭐ 2.1k |
-| **[EchoPulse](https://github.com/Prabhash/EchoPulse)** | Voice-activated chat app with haptic feedback. | TypeScript, WebRTC, Node.js | ⭐ 1.5k |
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://incident-frontend.vercel.app)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prabhash/HoloVerse/main/preview.gif" alt="HoloVerse Preview" width="400" />
-  <img src="https://raw.githubusercontent.com/Prabhash/NeuraKit/main/demo.gif" alt="NeuraKit Preview" width="400" />
-</p>
+### 💼 Other Projects
 
----
+#### [Kinto Warranty Management System](https://kinto-tyres.lk/)
+A full-stack warranty management system that streamlines product registration, warranty tracking, and claim management with secure JWT-based authentication and OTP verification.
 
+**Tech Stack:** Next.js, Node.js, Express.js, MongoDB, TypeScript
 
-<p align="center">
-  <img src="https://github.com/Prabhash/Prabhash/blob/output/snake.svg" alt="Contribution Snake" />
-</p>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kinto-tyres.lk/)
+
+#### Fleet Management System
+An enterprise-grade platform for managing vehicle fleets, clients, and service records with focus on backend scalability and real-time data handling.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT
+
+#### The Tyre Station – Official Website
+A responsive, SEO-friendly website showcasing services, outlets, and contact features with interactive UI components and optimized performance.
+
+**Tech Stack:** HTML5, CSS3, Bootstrap 5, JavaScript
+
+#### Global Mesh Solutions – Company Website
+A responsive corporate website highlighting film production and creative services with interactive elements, sliders, and media galleries.
+
+**Tech Stack:** HTML5, CSS3, Bootstrap 5, JavaScript
 
 ---
 
-### 🔗 Enter My Universe
-<p align="center">
-  <a href="https://prabhash.dev"><img src="https://img.shields.io/badge/Explore_My_Cosmos-FF00FF?style=for-the-badge&logo=web&logoColor=white" /></a>
-  <a href="https://x.com/prabhash_dev"><img src="https://img.shields.io/badge/Tweet_the_Future-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/prabhash"><img src="https://img.shields.io/badge/Join_My_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sponsors/Prabhash"><img src="https://img.shields.io/badge/Fuel_My_Vision-FF69B4?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 💼 Professional Experience
 
-<p align="center">
-  <em>"I don’t code apps—I sculpt experiences. Welcome to my galaxy." - Prabhash</em>
-</p>
+### Associate Full-Stack Developer
+**Intrix Digital Company Ltd** | *Feb 2025 – Oct 2025*
+
+- Developed and maintained multiple full-stack applications including Kinto Warranty Management System and Fleet Management System
+- Led the Fleet Management System project, coordinating sprints and mentoring juniors
+- Implemented secure JWT-based authentication, OTP verification, and role-based access control
+- Integrated AWS S3 for file storage and automated reports using PDFKit & ExcelJS
+
+**Technologies:** React.js, Next.js, Node.js, Express.js, MongoDB, TypeScript, Tailwind CSS, AWS
+
+### QA Tester
+**Seekers Cloud** | *Aug 2024 – Nov 2024*
+
+- Conducted manual testing of web applications for responsiveness and performance
+- Developed detailed test cases and bug reports
+- Verified UI and functionality across browsers and devices
+
+**Technologies:** Manual Testing, Test Cases, Bug Reporting, UI Testing
+
+### Front-End Developer Intern
+**Ceyentra Technologies (Pvt) Ltd** | *Feb 2024 – Aug 2024*
+
+- Contributed to FITZKY Fitness Platform (Angular to React.js migration) and Lion Beer Admin Panel
+- Developed dynamic components and integrated REST APIs for real-time updates
+- Ensured responsive UI across devices using Tailwind CSS
+
+**Technologies:** React.js, REST APIs, JavaScript, Tailwind CSS, Bootstrap
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrabhaWijera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhaWijera&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=PrabhaWijera&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎓 Education
+
+- **B.Sc. in Software Engineering** - Cardiff Metropolitan University (Ongoing)
+- **Institute of Software Engineering (IJSE)** - Software Engineering Diploma
+
+---
+
+## 🏆 Achievements
+
+- **2+ Years** of Learning & Experience
+- **20+ Projects** Completed
+- **10+ Hackathons & Events** Participated
+- **15+ Technologies** Mastered
+
+---
+
+## 📝 What I'm Learning
+
+- Advanced Microservices Architecture
+- AI/ML Integration with LLMs
+- Cloud Deployment & DevOps
+- System Design & Scalability
+
+---
+
+## 🤝 Let's Connect
+
+I'm always excited to collaborate on interesting projects or have a great tech conversation!
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrabhaWijera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhash-wijerathna)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prabhas_w/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrabhaWijera&color=9333EA&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <i>✨ Transforming complex ideas into seamless, high-performance digital products ✨</i>
+</div>
+
