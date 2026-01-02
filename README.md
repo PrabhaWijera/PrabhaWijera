@@ -1,198 +1,326 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prabhash+Wijerathna+👋;Full-Stack+Software+Engineer;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <a href="https://github.com/PrabhaWijera">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/prabhash-wijerathna">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/prabhas_w/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<!-- Retro ASCII Art Header -->
+<pre>
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║      ██████╗ ██████╗  █████╗ ██████╗ ██╗  ██╗ █████╗         ║
+║      ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔══██╗        ║
+║      ██████╔╝██████╔╝███████║██║  ██║███████║███████║        ║
+║      ██╔═══╝ ██╔══██╗██╔══██║██║  ██║██╔══██║██╔══██║        ║
+║      ██║     ██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║        ║
+║      ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝        ║
+║                                                               ║
+║           ██╗    ██╗██╗     ██╗███████╗██████╗               ║
+║           ██║    ██║██║     ██║██╔════╝██╔══██╗              ║
+║           ██║ █╗ ██║██║     ██║█████╗  ██████╔╝              ║
+║           ██║███╗██║██║     ██║██╔══╝  ██╔══██╗              ║
+║           ╚██╔╝██╔╝███████╗██║███████╗██║  ██║              ║
+║            ╚═╝ ╚═╝ ╚══════╝╚═╝╚══════╝╚═╝  ╚═╝              ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+</pre>
+
+<h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Full-Stack Developer & AI Specialist 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
+
+**🚀 Transforming complex ideas into seamless, high-performance digital products**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=I+build+scalable+applications;I+integrate+AI%2FML+solutions;I+craft+meaningful+experiences;From+concept+to+deployment+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<!-- Animated snake eating contributions -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm **Prabhash Wijerathna**, a **Full-Stack Software Engineer** from **Sri Lanka** with over **1.5 years** of hands-on industry experience building scalable, high-performance web applications. My work focuses on developing efficient backend systems, crafting seamless front-end interfaces, and delivering production-ready solutions that drive real business impact.
+### ⚡ Quick Stats
 
-🎓 Currently pursuing a **B.Sc. in Software Engineering** at **Cardiff Metropolitan University**  
-📍 Based in **Sri Lanka**  
-💼 Open to **collaborations** and **opportunities**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabhaWijera&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9333EA&icon_color=9333EA&text_color=ffffff&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=PrabhaWijera&theme=radical&hide_border=true&background=0d1117&ring=9333EA&fire=9333EA&currStreakLabel=9333EA&border_radius=10)
 
-### Beyond Coding
-When I'm not building, you'll find me capturing moments through **street photography** or exploring the latest trends in tech. I also enjoy mentoring peers and contributing to creative projects that encourage learning and growth.
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhaWijera&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=9333EA&text_color=ffffff&border_radius=10&exclude_repo=portfolio1.3)
+
+</div>
+
+---
+
+## 🎯 About Me
+
+```typescript
+const prabhash = {
+  name: "Prabhash Wijerathna",
+  role: "Full-Stack Software Engineer",
+  location: "🇱🇰 Sri Lanka",
+  education: {
+    current: "B.Sc. Software Engineering @ Cardiff Metropolitan University",
+    previous: "Institute of Software Engineering (IJSE)"
+  },
+  experience: "1.5+ years",
+  passion: [
+    "Building scalable web applications",
+    "AI/ML integration & NVIDIA NIM",
+    "Crafting seamless user experiences",
+    "Street photography 📸"
+  ],
+  currently: [
+    "⚡ Building AI-powered applications",
+    "🚀 Deploying production systems",
+    "🎓 Pursuing advanced software engineering"
+  ]
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
+### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-### DevOps & Infrastructure
+### 🤖 AI/ML
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-9333EA?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-9333EA?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 ### 🔥 What's New
 
-#### [AI-Powered Incident Management System](https://incident-frontend.vercel.app)
-An intelligent platform that monitors multiple services, automatically detects issues, and uses NVIDIA NIM LLMs (Llama 3.1, Mistral 7B) to analyze incidents and identify root causes in under 10 seconds.
+#### 🚀 [AI-Powered Incident Management System](https://incident-frontend.vercel.app)
+> **Intelligent platform with NVIDIA NIM LLMs** - Automatically monitors services, detects issues, and provides AI-powered root cause analysis in <10 seconds.
 
-**Tech Stack:** Next.js 16, React 19, Node.js, Express.js, MongoDB, NVIDIA NIM, AI/ML
+**Tech Stack:** Next.js 16 | React 19 | Node.js | Express.js | MongoDB | NVIDIA NIM | AI/ML
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://incident-frontend.vercel.app)
+![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square&logo=vercel)
+![Backend](https://img.shields.io/badge/Backend-Railway-9333EA?style=flat-square)
+![Frontend](https://img.shields.io/badge/Frontend-Vercel-000000?style=flat-square)
+
+**Key Features:**
+- ✅ Multi-service monitoring
+- ✅ AI-powered analysis (<10 seconds)
+- ✅ Real-time dashboards
+- ✅ Intelligent fallbacks
+
+---
 
 ### 💼 Other Projects
 
-#### [Kinto Warranty Management System](https://kinto-tyres.lk/)
-A full-stack warranty management system that streamlines product registration, warranty tracking, and claim management with secure JWT-based authentication and OTP verification.
+<details>
+<summary><b>🏢 Kinto Warranty Management System</b> — Full-Stack Warranty Platform</summary>
 
-**Tech Stack:** Next.js, Node.js, Express.js, MongoDB, TypeScript
+**Tech:** Next.js | Node.js | Express.js | MongoDB | TypeScript
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kinto-tyres.lk/)
+- JWT-based authentication with OTP verification
+- Automated email notifications
+- Production deployment at kinto-tyres.lk
 
-#### Fleet Management System
-An enterprise-grade platform for managing vehicle fleets, clients, and service records with focus on backend scalability and real-time data handling.
+</details>
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT
+<details>
+<summary><b>🚗 Fleet Management System</b> — Enterprise Fleet Platform</summary>
 
-#### The Tyre Station – Official Website
-A responsive, SEO-friendly website showcasing services, outlets, and contact features with interactive UI components and optimized performance.
+**Tech:** React.js | Node.js | Express.js | MongoDB | JWT
 
-**Tech Stack:** HTML5, CSS3, Bootstrap 5, JavaScript
+- Backend scalability focus
+- Real-time data handling
+- Role-based access control
 
-#### Global Mesh Solutions – Company Website
-A responsive corporate website highlighting film production and creative services with interactive elements, sliders, and media galleries.
+</details>
 
-**Tech Stack:** HTML5, CSS3, Bootstrap 5, JavaScript
+<details>
+<summary><b>🌐 The Tyre Station</b> — Official Website</summary>
+
+**Tech:** HTML5 | CSS3 | Bootstrap 5 | JavaScript
+
+- SEO-friendly responsive design
+- Interactive UI components
+- Optimized performance
+
+</details>
+
+<details>
+<summary><b>🎬 Global Mesh Solutions</b> — Corporate Website</summary>
+
+**Tech:** HTML5 | CSS3 | Bootstrap 5 | JavaScript
+
+- Film production showcase
+- Interactive sliders & galleries
+- Brand presentation
+
+</details>
 
 ---
 
 ## 💼 Professional Experience
 
-### Associate Full-Stack Developer
+### 🏢 Associate Full-Stack Developer
 **Intrix Digital Company Ltd** | *Feb 2025 – Oct 2025*
 
-- Developed and maintained multiple full-stack applications including Kinto Warranty Management System and Fleet Management System
-- Led the Fleet Management System project, coordinating sprints and mentoring juniors
-- Implemented secure JWT-based authentication, OTP verification, and role-based access control
-- Integrated AWS S3 for file storage and automated reports using PDFKit & ExcelJS
+- Led Fleet Management System project with team coordination
+- Built Kinto Warranty Management System with full authentication
+- Integrated AWS S3, PDFKit, ExcelJS for enterprise solutions
 
-**Technologies:** React.js, Next.js, Node.js, Express.js, MongoDB, TypeScript, Tailwind CSS, AWS
-
-### QA Tester
+### 🧪 QA Tester
 **Seekers Cloud** | *Aug 2024 – Nov 2024*
 
-- Conducted manual testing of web applications for responsiveness and performance
-- Developed detailed test cases and bug reports
-- Verified UI and functionality across browsers and devices
+- Manual testing & bug reporting
+- Cross-browser & device verification
+- Quality assurance workflows
 
-**Technologies:** Manual Testing, Test Cases, Bug Reporting, UI Testing
+### 💻 Front-End Developer Intern
+**Ceyentra Technologies** | *Feb 2024 – Aug 2024*
 
-### Front-End Developer Intern
-**Ceyentra Technologies (Pvt) Ltd** | *Feb 2024 – Aug 2024*
-
-- Contributed to FITZKY Fitness Platform (Angular to React.js migration) and Lion Beer Admin Panel
-- Developed dynamic components and integrated REST APIs for real-time updates
-- Ensured responsive UI across devices using Tailwind CSS
-
-**Technologies:** React.js, REST APIs, JavaScript, Tailwind CSS, Bootstrap
+- Migrated FITZKY Fitness Platform (Angular → React.js)
+- Developed Lion Beer Admin Panel
+- REST API integration & responsive design
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrabhaWijera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhaWijera&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=PrabhaWijera&theme=tokyonight" alt="GitHub Streak" />
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrabhaWijera&theme=radical&hide_border=true&bg_color=0d1117&color=9333EA&line=9333EA&point=ffffff&area=true&area_color=9333EA)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 
-## 🎓 Education
+## 🎨 Retro Terminal Status
 
-- **B.Sc. in Software Engineering** - Cardiff Metropolitan University (Ongoing)
-- **Institute of Software Engineering (IJSE)** - Software Engineering Diploma
+<details>
+<summary><b>💻 Click to view terminal status →</b></summary>
+
+```ascii
+┌─────────────────────────────────────────────────────────┐
+│  💻 PRABHASH'S DEV TERMINAL v2.0                        │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  ⚡ STATUS: BUILDING & LEARNING                         │
+│  🎯 CURRENT FOCUS: AI Integration | Full-Stack Apps     │
+│  📚 CURRENTLY LEARNING: Advanced System Design          │
+│  📸 HOBBY: Street Photography                           │
+│  💬 QUOTE: "Code is poetry written in logic"            │
+│                                                         │
+│  🔥 ACTIVE PROJECTS:                                    │
+│     └─> AI Incident Management System                   │
+│     └─> Fleet Management Platform                       │
+│     └─> Warranty Management System                      │
+│                                                         │
+│  🌐 DEPLOYED:                                           │
+│     └─> Vercel (Frontend)                               │
+│     └─> Railway (Backend)                               │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</details>
 
 ---
 
-## 🏆 Achievements
+## 🎬 Retro Terminal Commands
 
-- **2+ Years** of Learning & Experience
-- **20+ Projects** Completed
-- **10+ Hackathons & Events** Participated
-- **15+ Technologies** Mastered
+```bash
+$ whoami
+Prabhash Wijerathna
+
+$ cat ~/.profile
+Full-Stack Developer from Sri Lanka
+Building AI-powered applications
+Passionate about clean code & user experience
+
+$ ls ~/projects/ | head -5
+ai-incident-management/
+fleet-management/
+kinto-warranty/
+tyre-station-website/
+global-mesh-solutions/
+
+$ git status
+On branch: building-the-future
+Working tree clean ✨
+
+$ npm run build
+✓ Build successful
+✓ Deployed to production
+✓ All systems operational
+
+$ ./deploy.sh
+🚀 Deploying to Vercel...
+✅ Frontend deployed successfully
+🚂 Deploying to Railway...
+✅ Backend deployed successfully
+🎉 All systems live!
+```
 
 ---
 
-## 📝 What I'm Learning
-
-- Advanced Microservices Architecture
-- AI/ML Integration with LLMs
-- Cloud Deployment & DevOps
-- System Design & Scalability
-
----
-
-## 🤝 Let's Connect
-
-I'm always excited to collaborate on interesting projects or have a great tech conversation!
+## 🌐 Connect With Me
 
 <div align="center">
-  
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrabhaWijera)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhash-wijerathna)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prabhas_w/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://prabhashwijerathna.dev)
 
 </div>
 
 ---
 
+## 💡 Fun Facts & Achievements
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrabhaWijera&color=9333EA&style=for-the-badge" alt="Profile Views" />
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=PrabhaWijera&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7)
+
 </div>
+
+- 🎯 **Achievement:** Built and deployed AI-powered production systems
+- 🚀 **Impact:** 70% reduction in incident investigation time with AI
+- 📸 **Creative:** Street photographer capturing urban moments
+- 🎓 **Learning:** Pursuing B.Sc. while building real-world solutions
+- ⚡ **Tech:** Early adopter of Next.js 16 & React 19
+- 🏆 **Projects:** 5+ production-ready applications deployed
 
 ---
 
 <div align="center">
-  <i>✨ Transforming complex ideas into seamless, high-performance digital products ✨</i>
-</div>
 
+<img src="https://komarev.com/ghpvc/?username=PrabhaWijera&color=9333EA&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+
+**Thanks for visiting! Feel free to explore my repositories** 🚀
+
+**Made with ❤️ and lots of ☕**
+
+[![GitHub followers](https://img.shields.io/github/followers/PrabhaWijera?style=social)](https://github.com/PrabhaWijera)
+[![GitHub stars](https://img.shields.io/github/stars/PrabhaWijera?style=social)](https://github.com/PrabhaWijera)
+
+</div>
